@@ -1,0 +1,10 @@
+service:
+  hp:
+    urls:
+      - https://hp-api.onrender.com/api/characters
+      - https://hp-api.onrender.com/api/character/:id
+      - https://hp-api.onrender.com/api/characters/students
+      - https://hp-api.onrender.com/api/characters/staff
+      - https://hp-api.onrender.com/api/characters/house/gryffindor
+      - https://hp-api.onrender.com/api/spells
+      - http://localhost:8082/v1/japanese/sentence
